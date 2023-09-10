@@ -1,0 +1,6 @@
+.question span
+{
+    display: inline-block;
+    transform: rotate(90deg);
+
+}

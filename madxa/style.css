@@ -1,0 +1,105 @@
+.navcontainer
+{
+    padding-left: 80px;
+}
+
+.navback
+{
+    background-color: #103c61;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+    width: 100%;
+}
+.logo
+{
+    font-family: 'Exo', sans-serif;
+    font-weight: 900;
+    color: white;
+    margin-left: 10px;
+    margin-right: 15px;
+}
+.navitems
+{
+    font-family: 'Exo', sans-serif;
+    color: white;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.rqst
+{
+    background-color: #0eab79;
+    border: 0;
+    margin-right: 30px;
+}
+.rqst:hover
+{
+    background-color: #108460;
+}
+.intro
+{
+    margin-top: 50px;
+    margin-left: 50px;
+    text-align: justify;
+    font-family: 'Exo', sans-serif;
+    line-height: 2.5; 
+
+}
+.intro span
+{
+    padding-bottom: 100px;
+    font-weight: 600;
+}
+
+.txtcontainer
+{
+    max-width: 300px;
+    border-radius: 10px;
+
+}
+
+.card
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+
+.card-link
+{
+    text-decoration: none;
+    color: #103c61;
+}
+
+i
+{
+    color: #103c61;
+    font-size: xx-large;
+}
+
+.card:hover
+{
+    background-color: #0eab79;
+}
+.card:hover *
+{
+    color: white;
+}
+
+.cards
+{
+    margin-left: 30px;
+}
+.socialMedia *
+{
+    text-align: left;
+    font-size:  15px;;
+}
+footer
+{
+    background-color: #103c61;
+    color: white;
+    margin-top: 20px;
+    padding: 15px;;
+    padding:0px , 7px, 0px, 7px;
+}

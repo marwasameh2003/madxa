@@ -1,0 +1,15 @@
+h3{
+    color:#0eab79;
+    margin: 45px;
+    margin-bottom: 70px;
+}
+
+.card
+{
+    margin:10px
+}
+
+.card *
+{
+    color:#103c61;
+}

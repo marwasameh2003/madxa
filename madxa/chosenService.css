@@ -1,0 +1,40 @@
+.container
+{
+    width: 600px;
+    height: 650px;
+    border-width: 0.5px;
+    /* border-style: solid; */
+    border-radius: 20px;
+    padding: 40px;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(106, 103, 103, 0.5); /* Small and subtle shadow */
+
+}
+*
+{
+    color:#103c61;
+}
+.container h3 
+{
+    color: #0eab79;
+    text-align: center;
+}
+
+footer p
+{
+    color: white;
+}
+
+.rqstService
+{
+    background-color: #0eab79;
+    border: 0;
+    margin-left: 170px;
+    margin-top: 12px;
+    padding: 10px
+}
+
+.rqstService:hover
+{
+    background-color: #108460;
+}
